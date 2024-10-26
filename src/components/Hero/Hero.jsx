@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import HeroImg from "../../assets/website/coffee2.png";
 
 const Home = () => {
