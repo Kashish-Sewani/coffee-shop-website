@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import BannerImg from "../../assets/website/coffee-white.png";
 import BgTexture from "../../assets/website/coffee-texture.jpg";
 import { GrSecure } from "react-icons/gr";
