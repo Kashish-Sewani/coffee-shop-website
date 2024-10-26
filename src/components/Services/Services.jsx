@@ -1,4 +1,4 @@
-// import React from 'react'
+import React from 'react'
 import Img2 from '../../assets/website/coffee2.png'
 
 const ServicesData = [
